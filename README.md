@@ -89,7 +89,7 @@ Run As a TestNG Suite
 5. You can check the logs during execution in the Console view or view the report after execution in:
 \CucumberBDDTestNG\target\site\cucumber-pretty\index.html
 
-6. When running the test again, you can either reset the Demo Company (AU) to clear the added Bank Accounts, or edit the feature file found in \CucumberBDDTestNG\src\test\java\features\AddBankAccount.feature with new set of Bank Account Details.
+6. When running the test again, you can either reset the Demo Company (AU) to clear the added Bank Accounts or edit the feature file found in \CucumberBDDTestNG\src\test\java\features\AddBankAccount.feature with new set of Bank Account Details. The second option is also applicable if you are using your created organisation and not the Demo Company (AU).
 ```
     Examples: 
       |accountname		|accountnumber		| 
