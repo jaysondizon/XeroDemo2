@@ -1,0 +1,120 @@
+2019-08-07 03:41:52,729 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-07 03:45:06,529 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\NewXeroDemo\CucumberBDDTestNG\pom.xml
+2019-08-07 03:45:21,326 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Selenium:CucumberBDDTestNG:0.0.1-SNAPSHOT @ E:\NewXeroDemo\CucumberBDDTestNG\pom.xml.
+2019-08-07 03:45:24,042 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberBDDTestNG/src/main/java
+2019-08-07 03:45:24,055 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberBDDTestNG/src/test/java
+2019-08-07 03:45:24,299 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2019-08-07 03:45:26,266 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:45:26,267 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:45:26,269 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:45:26,269 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:46:49,353 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:46:49,354 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:46:49,356 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:46:49,357 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:47:01,534 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:01,534 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:47:01,537 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:01,537 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:47:02,565 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:02,566 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:47:02,570 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:02,570 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:47:18,496 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:18,497 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:47:18,501 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:18,502 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:47:40,950 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:40,950 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:47:40,952 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:40,953 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:47:50,285 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:50,286 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:47:50,288 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:47:50,289 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:48:39,661 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:48:39,662 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:48:39,692 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:48:39,693 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:49:09,397 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:49:09,398 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:49:09,400 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:49:09,403 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:49:26,814 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:49:26,814 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:49:26,816 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:49:26,817 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:50:01,830 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:01,830 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:50:01,832 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:01,833 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:50:19,542 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:19,542 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:50:19,550 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:19,551 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:50:29,366 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:29,366 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:50:29,369 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:29,369 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:50:58,070 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:58,071 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:50:58,073 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:50:58,073 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:51:10,532 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:51:10,532 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:51:10,534 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:51:10,535 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:51:37,243 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:51:37,244 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:51:37,248 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:51:37,249 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:52:37,170 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: parameter:cucumber:0.0.1-SNAPSHOT @ E:\NewXeroDemo\CucumberBDDTestNG\pom.xml.
+2019-08-07 03:52:39,492 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:52:39,493 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:52:39,496 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:52:39,497 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:52:41,022 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:52:41,022 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:52:41,024 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:52:41,025 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:52:47,405 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:52:47,407 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:52:47,417 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:52:47,418 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:53:16,453 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:53:16,454 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:53:16,456 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:53:16,457 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:53:58,610 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:53:58,611 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:53:58,613 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:53:58,614 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:54:26,114 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-07 03:54:28,555 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: parameter:cucumber:0.0.1-SNAPSHOT @ E:\NewXeroDemo\CucumberBDDTestNG\pom.xml.
+2019-08-07 03:54:30,420 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberBDDTestNG/src/main/java
+2019-08-07 03:54:30,422 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberBDDTestNG/src/test/java
+2019-08-07 03:54:30,717 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-08-07 03:54:31,339 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:54:31,339 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:54:31,342 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:54:31,342 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:56:23,653 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:56:23,654 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:56:23,657 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:56:23,657 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 03:56:46,713 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:56:46,713 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 03:56:46,715 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 03:56:46,715 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 04:00:37,519 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 04:00:37,519 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 04:00:37,519 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 04:00:37,519 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 04:03:12,866 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 04:03:12,866 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 04:03:12,866 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 04:03:12,866 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
+2019-08-07 04:03:39,862 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 04:03:39,862 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\main\resources
+2019-08-07 04:03:39,862 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-07 04:03:39,862 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\NewXeroDemo\CucumberBDDTestNG\src\test\resources
