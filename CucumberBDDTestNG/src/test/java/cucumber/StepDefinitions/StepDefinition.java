@@ -7,7 +7,6 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 
 import cucumber.api.java.en.Given;
@@ -105,13 +104,11 @@ public class StepDefinition {
 		driver.findElement(By.xpath("//li[contains(text(),'ANZ (NZ)')]")).click();
 
 		// Passing the Account Name
-
 		driver.findElement(By.xpath("//input[@id='accountname-1037-inputEl']")).sendKeys(accountname);
-		driver.findElement(By.id("accounttype-1039-bodyEl")).click();
 
 		// Select Account Type
-		Actions accountType = new Actions(driver);
-		accountType.moveByOffset(670, 125).click().build().perform();
+		driver.findElement(By.id("accounttype-1039-bodyEl")).click();
+		driver.findElement(By.xpath("//li[contains(text(),'Everyday (day-to-day)')]")).click();
 
 		// Passing the Account Number
 		driver.findElement(By.id("accountnumber-1068-inputEl")).sendKeys(accountnumber);
